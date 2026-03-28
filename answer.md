@@ -15,3 +15,13 @@
 
 ### Ссылка на коммит
 [создание файла .gitignore](https://github.com/Onemoreimage/netology/commit/34daf80f54176fd6dc8a02f4122c4bdcfac472ab)
+
+
+# Задание 3 Авдеев Александр
+
+## Решение
+
+Создана ветка и выполнено слияние 
+![Граф коммитов](/img/merge.png)
+### Ссылка на коммит
+[Графическое отображение слияние веток](https://github.com/Onemoreimage/netology/networkb)
