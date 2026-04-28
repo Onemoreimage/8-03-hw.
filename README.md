@@ -15,7 +15,7 @@
 
 ## 3. Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 
-![template host](img/task3-1.png)
+![template host](img/task3-1-1.png)
 ![template host](img/task3-2.png)
 ![template host](img/task3-3.png)
 
